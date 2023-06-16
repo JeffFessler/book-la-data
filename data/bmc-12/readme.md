@@ -13,3 +13,7 @@ ACCV workshop, 291-300, 2012
 [https://doi.org/10.1007/978-3-642-37410-4_25](https://doi.org/10.1007/978-3-642-37410-4_25).
 
 It is down-sampled to reduce computation.
+
+Here is a preview of the first and last frames:
+
+<img src="first-last.png" alt="first/last frames" width="700"/>
