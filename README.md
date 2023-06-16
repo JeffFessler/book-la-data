@@ -6,5 +6,5 @@ See demos at
 https://github.com/JeffFessler/book-mmaj-demo
 
 Contents:
-- [data/bmc-12](https://github.com/JeffFessler/book-mmaj-data/data/bmc-12)
+- [data/bmc-12](https://github.com/JeffFessler/book-mmaj-data/tree/main/data/bmc-12)
   Video for foreground/background separation)
