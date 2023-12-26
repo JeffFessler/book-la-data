@@ -1,4 +1,7 @@
-# Data to accompany "Matrix methods" book.
+# Data to accompany book
+"Linear algebra for data science, machine learning and signal processing"
+by Jeff Fessler and Raj Nadakuditi,
+Cambridge University Press, 2024
 
 https://github.com/JeffFessler/book-la-data
 
